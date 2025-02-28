@@ -1,0 +1,1708 @@
+{
+  "vaultName": "2",
+  "lastExport": 1740757264633,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "common_parts_and_manuals/coding/Teensy_Arduino.md",
+    "common_parts_and_manuals/coding/ZMQ.md",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/scb-68a-user-manual.pdf",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/NI-DAQ-digital-output.md",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI DAQ card architecture.md",
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI SCB-68A connections example.jpg",
+    "common_parts_and_manuals/electronics/stepper motor drivers/Sparkfun Easydriver/Sparkfun Easydriver.md",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount.stl",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount v2.f3d",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount_v1.png",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/UMS3_laser_module_power_control_mount.3mf",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount v6.f3d",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.stl",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.png",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_back.jpg",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_front.jpg",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/UMS3_laser_module_power_control_mount_v2.3mf",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount v7.f3d",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.png",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_back.jpg",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_front.jpg",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1.stl",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1_UMS3.3mf",
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/Uctronics power source with relay mount.md",
+    "common_parts_and_manuals/electronics/USB.md",
+    "common_parts_and_manuals/FLIR Cameras/files/asset_pdf_25493243.pdf",
+    "common_parts_and_manuals/FLIR Cameras/files/cmosis_CMV4000-10-2015-773293.pdf",
+    "common_parts_and_manuals/FLIR Cameras/files/GS3-U3-Technical-Reference.pdf",
+    "common_parts_and_manuals/FLIR Cameras/FLIR Cameras.md",
+    "common_parts_and_manuals/LED/Thorlabs/files/M780L3-SpecSheet.pdf",
+    "common_parts_and_manuals/LED/Thorlabs/Thorlabs M780L3.md",
+    "common_parts_and_manuals/manufacturing/3D printing/3D printing.md",
+    "common_parts_and_manuals/manufacturing/3D printing/Duke University Co-Lab specific printing.md",
+    "common_parts_and_manuals/manufacturing/Manufacturing.md",
+    "common_parts_and_manuals/Olympus objective/files/N20X-PFH-Objective.step",
+    "common_parts_and_manuals/Olympus objective/files/olympus_xlumplfln-w_20x.pdf",
+    "common_parts_and_manuals/Olympus objective/Olympus XLUMPLFLN20XW.md",
+    "common_parts_and_manuals/optics primers/rss/conjugate planes in 4f system.png",
+    "common_parts_and_manuals/optics primers/Conjugate optical planes and 4f system.md",
+    "common_parts_and_manuals/Common parts & manuals.md",
+    "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue camera past objective simulation.json",
+    "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png",
+    "Functional Subsystems/Extra Modules/behavioral imaging/Behavioral imaging.md",
+    "Functional Subsystems/Extra Modules/behavioral imaging/Tissue camera.md",
+    "Functional Subsystems/Extra Modules/cooling system/Cooling system.md",
+    "Functional Subsystems/Extra Modules/enclosure/Enclosure.md",
+    "Functional Subsystems/Extra Modules/enclosure/LED lighting.md",
+    "Functional Subsystems/Extra Modules/software modules/Software modules.md",
+    "Functional Subsystems/Extra Modules/Extra modules.md",
+    "Functional Subsystems/Extra Modules/Projector system.md",
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_beam-forming module.png",
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_periscope.png",
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_pre-scanner.png",
+    "Functional Subsystems/main scanning path/pre-scanner/Beam forming assembly.md",
+    "Functional Subsystems/main scanning path/pre-scanner/construction, alignment.md",
+    "Functional Subsystems/main scanning path/pre-scanner/maintenance alignment.md",
+    "Functional Subsystems/main scanning path/pre-scanner/Periscope.md",
+    "Functional Subsystems/main scanning path/pre-scanner/Pre-scanner.md",
+    "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_parabolic-galvo-scanner.png",
+    "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_post-scanner.png",
+    "Functional Subsystems/main scanning path/scanner/rss/parabolic galvo scanner and scan-tube lens schematic_w600.png",
+    "Functional Subsystems/main scanning path/scanner/Parabolic galvo scanner and Scan-Tube Lens system.md",
+    "Functional Subsystems/main scanning path/scanner/Scan-Tube lens system.md",
+    "Functional Subsystems/main scanning path/scanner/scanner alignment.md",
+    "Functional Subsystems/main scanning path/Main scanning path.md",
+    "Functional Subsystems/main scanning path/Piezo stage with objective.md",
+    "Functional Subsystems/path 2 - Photostimulation module/path 2 - Photostimulation module.md",
+    "Functional Subsystems/path 2 - Photostimulation module/Photostim Galvo Scanner.md",
+    "Functional Subsystems/path 2 - Photostimulation module/Pre-SLM.md",
+    "Functional Subsystems/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.md",
+    "Functional Subsystems/path 2 - Photostimulation module/SLM.md",
+    "Functional Subsystems/path 2 - Photostimulation module/SLM-to-galvo.md",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_195607.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_202945.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_203235.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_190710.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_190715.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193334.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193513.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193956.jpg",
+    "Functional Subsystems/PMT detection system/rss/alignment/20210908_090937.jpg",
+    "Functional Subsystems/PMT detection system/rss/spectra/FF01-554_23_Spectrum.txt",
+    "Functional Subsystems/PMT detection system/rss/spectra/FF01-590_36_Spectrum.txt",
+    "Functional Subsystems/PMT detection system/rss/spectra/NL-2p1_filters-dichroics_spectra.png",
+    "Functional Subsystems/PMT detection system/rss/tmp/red_fluorophores_filters_sources2b.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel_optics.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system_hightlighted optics.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels.png",
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels_optics.png",
+    "Functional Subsystems/PMT detection system/maintenance alignment.md",
+    "Functional Subsystems/PMT detection system/PMT detection system.md",
+    "Functional Subsystems/PMT detection system/PMT detection system spectra.md",
+    "Modules/LaserPowerController/electronics/electronics.md",
+    "Modules/LaserPowerController/hardware/NL2p1 hardware.md",
+    "Modules/LaserPowerController/paper/~$ser power controller.docx",
+    "Modules/LaserPowerController/paper/laser power controller.docx",
+    "Modules/LaserPowerController/rss/Agilis-P_with_Camera_no_wires_400w.jpg",
+    "Modules/LaserPowerController/rss/DIY_glan-prism-attenuator.png",
+    "Modules/LaserPowerController/rss/Electronics and firmware.png",
+    "Modules/LaserPowerController/rss/laser-shutter_40mm cage system_with-beam-block.png",
+    "Modules/LaserPowerController/rss/laser-shutter_60mm cage system_with-beam-block.png",
+    "Modules/LaserPowerController/rss/NL2p1_60mm-rig-shutter.jpg",
+    "Modules/LaserPowerController/rss/NL2p1_glan-prism-power-attenuator.jpg",
+    "Modules/LaserPowerController/rss/NL2p1_PCB-board.jpg",
+    "Modules/LaserPowerController/rss/NL2p1_standalone-shutter.jpg",
+    "Modules/LaserPowerController/rss/optical path schematics.pptx",
+    "Modules/LaserPowerController/rss/optical path_screensaver.png",
+    "Modules/LaserPowerController/rss/phase-modulators.jpg",
+    "Modules/LaserPowerController/rss/power meter with lightning_Gemini_Generated.jpg",
+    "Modules/LaserPowerController/rss/powerControllerPCB_v0.1.png",
+    "Modules/LaserPowerController/rss/screenhunter 07.png",
+    "Modules/LaserPowerController/rss/screenhunter 08.png",
+    "Modules/LaserPowerController/rss/screenhunter 15.png",
+    "Modules/LaserPowerController/rss/screenhunter 16.png",
+    "Modules/LaserPowerController/rss/uniblitz-shutter.png",
+    "Modules/LaserPowerController/software/software.md",
+    "Modules/LaserPowerController/firmware.md",
+    "Modules/LaserPowerController/Laser Power Controller.md",
+    "Modules/NI-DAQ-modules/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf",
+    "Modules/NI-DAQ-modules/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf",
+    "Modules/NI-DAQ-modules/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf",
+    "Modules/NI-DAQ-modules/downloaded documentation/scb-68a-user-manual.pdf",
+    "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png",
+    "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/NI-DAQ-digital-output.md",
+    "Modules/NI-DAQ-modules/NI DAQ card architecture.md",
+    "Modules/NI-DAQ-modules/NI SCB-68A connections example.jpg",
+    "Modules/NI-DAQ-modules/NI-DAQ-Modules.md",
+    "Modules/photostim/photostim.drawio",
+    "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module.png",
+    "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module_partial-integrated-window.png",
+    "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-Module.md",
+    "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-module-MC-commands.md",
+    "Modules/piezo_nPoint-nPFocus400/rss/C400 USB Labview2011.pdf",
+    "Modules/piezo_nPoint-nPFocus400/rss/CD-LC-400-1-3-0.zip",
+    "Modules/piezo_nPoint-nPFocus400/rss/FTDI.zip",
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400 Series Controller Manual V1.19.pdf",
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400-API-Developers-Manual.pdf",
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC400_1-axis_controller.png",
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_nPFocus400_INSTALLATION-DRAWING-3715475-3715485-nPFocus400.PDF",
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_NZ400_and_30mm-cage-cube-adapter.png",
+    "Modules/piezo_nPoint-nPFocus400/rss/piezo-stage_30-mm-cage_adapter.png",
+    "Modules/piezo_nPoint-nPFocus400/nPoint nPFocus400 piezo stage.md",
+    "Modules/piezo_nPoint-nPFocus400/nPoint-C400_C4W-adapter.md",
+    "Modules/point-scanner/galvos/camridge_tech_contacts.md",
+    "Modules/point-scanner/galvos/camtech_on_choosing.md",
+    "Modules/point-scanner/software/rss/point-scanner_bare-interface.png",
+    "Modules/point-scanner/software/rss/point-scanner_flow-diagram.png",
+    "Modules/point-scanner/software/rss/screenshot_137.png",
+    "Modules/point-scanner/software/point-scanner AO-DO.md",
+    "Modules/point-scanner/software/point-scanner software.md",
+    "Modules/point-scanner/galvos.md",
+    "Modules/point-scanner/Negrean_Mansvelder_14.md",
+    "Modules/point-scanner/point-scanner module.md",
+    "Modules/Spectra-Physics_Insight-X3/Spectra-Physics Insight-X3.md",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper driver interface.md",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control1.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control2.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control3.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/pasted_image.png",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code.md",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy.md",
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage.md",
+    "Modules/Stepper motors and Stages/old/stage.md",
+    "Modules/Stepper motors and Stages/rss/NL-2p1_z-stage actuator.png",
+    "Modules/Stepper motors and Stages/3D stage.md",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper driver interface.md",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control1.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control2.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control3.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/diy/pasted_image.png",
+    "Modules/stepper-stage/old/stage/stepper-stage/code.md",
+    "Modules/stepper-stage/old/stage/stepper-stage/diy.md",
+    "Modules/stepper-stage/old/stage/stepper-stage.md",
+    "Modules/stepper-stage/old/stage.md",
+    "Modules/stepper-stage/rss/NL-2p1_z-stage actuator.png",
+    "Modules/stepper-stage/3D stage.md",
+    "Modules/Thorlabs_power-meter/rss/31clxlr9.bmp",
+    "Modules/Thorlabs_power-meter/rss/ax40f9yq.bmp",
+    "Modules/Thorlabs_power-meter/rss/example_module_parser.py",
+    "Modules/Thorlabs_power-meter/rss/h6zdcn23.bmp",
+    "Modules/Thorlabs_power-meter/rss/PM100D-Manual.pdf",
+    "Modules/Thorlabs_power-meter/rss/PM101-Manual_English.pdf",
+    "Modules/Thorlabs_power-meter/rss/ro6njuwd.bmp",
+    "Modules/Thorlabs_power-meter/rss/S130C-SpecSheet.pdf",
+    "Modules/Thorlabs_power-meter/rss/S405C-SpecSheet.pdf",
+    "Modules/Thorlabs_power-meter/rss/screenshot_135.png",
+    "Modules/Thorlabs_power-meter/software/software.md",
+    "Modules/Thorlabs_power-meter/software/Thorlabs power meter MC module.md",
+    "Modules/Thorlabs_power-meter/software/Thorlabs_power-meter_MC module MC commands.md",
+    "Modules/Thorlabs_power-meter/PM100D interface.md",
+    "Modules/Thorlabs_power-meter/PM101 interface.md",
+    "Modules/Thorlabs_power-meter/README.md",
+    "Modules/Thorlabs_power-meter/S130C power sensor.md",
+    "Modules/Thorlabs_power-meter/S405C power sensor.md",
+    "Modules/Thorlabs_power-meter/troubleshooting.md",
+    "Modules/Spectra-Physics Insight-X3.md",
+    "parts and purchasing system/Purchasing system.md",
+    "rss/2p-scanning.xlsx",
+    "rss/3D Model.md",
+    "rss/NL-2p1_3D-model.png",
+    "rss/NL-2p1_asmbly.xlsx.md",
+    "Software assemblies and usage/point scanner software/MC integration.md",
+    "Software assemblies and usage/point scanner software/point scanner.md",
+    "Software assemblies and usage/point scanner software/point scanner code notes.md",
+    "Software assemblies and usage/modules.md",
+    "Software assemblies and usage/Software.md",
+    "Software assemblies and usage/Software assemblies and usage.md",
+    "Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.md",
+    "NL_2p1 content.md",
+    "NL_2p1 overview.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/coding/Teensy_Arduino.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4414,
+      "exportedPath": "common_parts_and_manuals/coding/Teensy_Arduino.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/coding/ZMQ.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 856,
+      "exportedPath": "common_parts_and_manuals/coding/ZMQ.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1100685,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 410560,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 421121,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/scb-68a-user-manual.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4479352,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/downloaded documentation/scb-68a-user-manual.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 35088,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/NI-DAQ-digital-output.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3166,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/software/NI-DAQ-digital-output/NI-DAQ-digital-output.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI DAQ card architecture.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5340,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI DAQ card architecture.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI SCB-68A connections example.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 286087,
+      "exportedPath": "common_parts_and_manuals/dac-adc/NI - National Instruments - moved/NI SCB-68A connections example.jpg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/stepper motor drivers/Sparkfun Easydriver/Sparkfun Easydriver.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 131,
+      "exportedPath": "common_parts_and_manuals/electronics/stepper motor drivers/Sparkfun Easydriver/Sparkfun Easydriver.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount.stl": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 94084,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount.stl",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount v2.f3d": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 147681,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount v2.f3d",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount_v1.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 34252,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/laser_module_power_control_mount_v1.png",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/UMS3_laser_module_power_control_mount.3mf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 127272,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v1/UMS3_laser_module_power_control_mount.3mf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount v6.f3d": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 170272,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount v6.f3d",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.stl": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 112484,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.stl",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 87893,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2.png",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_back.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1033210,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_back.jpg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_front.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 666556,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/laser_module_power_control_mount_v2_front.jpg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/UMS3_laser_module_power_control_mount_v2.3mf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 135371,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2/UMS3_laser_module_power_control_mount_v2.3mf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount v7.f3d": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 170481,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount v7.f3d",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 87893,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.png",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_back.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1033210,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_back.jpg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_front.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 666556,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2_front.jpg",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1.stl": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 112484,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1.stl",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1_UMS3.3mf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 137240,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/v2.1/laser_module_power_control_mount_v2.1_UMS3.3mf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/Uctronics-power-source_mount/Uctronics power source with relay mount.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1885,
+      "exportedPath": "common_parts_and_manuals/electronics/Uctronics-power-source_mount/Uctronics power source with relay mount.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/electronics/USB.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2,
+      "exportedPath": "common_parts_and_manuals/electronics/USB.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/FLIR Cameras/files/asset_pdf_25493243.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2904716,
+      "exportedPath": "common_parts_and_manuals/FLIR Cameras/files/asset_pdf_25493243.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/FLIR Cameras/files/cmosis_CMV4000-10-2015-773293.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 184268,
+      "exportedPath": "common_parts_and_manuals/FLIR Cameras/files/cmosis_CMV4000-10-2015-773293.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/FLIR Cameras/files/GS3-U3-Technical-Reference.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 6372353,
+      "exportedPath": "common_parts_and_manuals/FLIR Cameras/files/GS3-U3-Technical-Reference.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/FLIR Cameras/FLIR Cameras.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1019,
+      "exportedPath": "common_parts_and_manuals/FLIR Cameras/FLIR Cameras.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/LED/Thorlabs/files/M780L3-SpecSheet.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 831028,
+      "exportedPath": "common_parts_and_manuals/LED/Thorlabs/files/M780L3-SpecSheet.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/LED/Thorlabs/Thorlabs M780L3.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 172,
+      "exportedPath": "common_parts_and_manuals/LED/Thorlabs/Thorlabs M780L3.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/manufacturing/3D printing/3D printing.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2147,
+      "exportedPath": "common_parts_and_manuals/manufacturing/3D printing/3D printing.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/manufacturing/3D printing/Duke University Co-Lab specific printing.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 788,
+      "exportedPath": "common_parts_and_manuals/manufacturing/3D printing/Duke University Co-Lab specific printing.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/manufacturing/Manufacturing.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 105,
+      "exportedPath": "common_parts_and_manuals/manufacturing/Manufacturing.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/Olympus objective/files/N20X-PFH-Objective.step": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 856505,
+      "exportedPath": "common_parts_and_manuals/Olympus objective/files/N20X-PFH-Objective.step",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/Olympus objective/files/olympus_xlumplfln-w_20x.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 437144,
+      "exportedPath": "common_parts_and_manuals/Olympus objective/files/olympus_xlumplfln-w_20x.pdf",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/Olympus objective/Olympus XLUMPLFLN20XW.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 107,
+      "exportedPath": "common_parts_and_manuals/Olympus objective/Olympus XLUMPLFLN20XW.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/optics primers/rss/conjugate planes in 4f system.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 41176,
+      "exportedPath": "common_parts_and_manuals/optics primers/rss/conjugate planes in 4f system.png",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/optics primers/Conjugate optical planes and 4f system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 843,
+      "exportedPath": "common_parts_and_manuals/optics primers/Conjugate optical planes and 4f system.html",
+      "dependencies": []
+    },
+    "common_parts_and_manuals/Common parts & manuals.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 424,
+      "exportedPath": "common_parts_and_manuals/Common parts & manuals.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue camera past objective simulation.json": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3836,
+      "exportedPath": "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue camera past objective simulation.json",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 119015,
+      "exportedPath": "Functional Subsystems/Extra Modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/behavioral imaging/Behavioral imaging.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 452,
+      "exportedPath": "Functional Subsystems/Extra Modules/behavioral imaging/Behavioral imaging.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/behavioral imaging/Tissue camera.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1146,
+      "exportedPath": "Functional Subsystems/Extra Modules/behavioral imaging/Tissue camera.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/cooling system/Cooling system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/Extra Modules/cooling system/Cooling system.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/enclosure/Enclosure.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 21,
+      "exportedPath": "Functional Subsystems/Extra Modules/enclosure/Enclosure.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/enclosure/LED lighting.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/Extra Modules/enclosure/LED lighting.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/software modules/Software modules.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/Extra Modules/software modules/Software modules.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/Extra modules.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/Extra Modules/Extra modules.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/Extra Modules/Projector system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/Extra Modules/Projector system.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_beam-forming module.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 373081,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_beam-forming module.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_periscope.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 221177,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_periscope.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_pre-scanner.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 462794,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/rss/NL-2p1_pre-scanner.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/Beam forming assembly.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 720,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/Beam forming assembly.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/construction, alignment.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1225,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/construction, alignment.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/maintenance alignment.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 27,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/maintenance alignment.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/Periscope.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 788,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/Periscope.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/pre-scanner/Pre-scanner.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 965,
+      "exportedPath": "Functional Subsystems/main scanning path/pre-scanner/Pre-scanner.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_parabolic-galvo-scanner.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 575835,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_parabolic-galvo-scanner.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_post-scanner.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 142405,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/rss/NL-2p1_post-scanner.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/rss/parabolic galvo scanner and scan-tube lens schematic_w600.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 334733,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/rss/parabolic galvo scanner and scan-tube lens schematic_w600.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/Parabolic galvo scanner and Scan-Tube Lens system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5562,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/Parabolic galvo scanner and Scan-Tube Lens system.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/Scan-Tube lens system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/Scan-Tube lens system.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/scanner/scanner alignment.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 969,
+      "exportedPath": "Functional Subsystems/main scanning path/scanner/scanner alignment.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/Main scanning path.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1236,
+      "exportedPath": "Functional Subsystems/main scanning path/Main scanning path.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/main scanning path/Piezo stage with objective.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1765,
+      "exportedPath": "Functional Subsystems/main scanning path/Piezo stage with objective.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/path 2 - Photostimulation module.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/path 2 - Photostimulation module.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/Photostim Galvo Scanner.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/Photostim Galvo Scanner.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/Pre-SLM.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/Pre-SLM.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/SLM.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/SLM.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/path 2 - Photostimulation module/SLM-to-galvo.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Functional Subsystems/path 2 - Photostimulation module/SLM-to-galvo.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_195607.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 218452,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210906_195607.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_202945.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 291777,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210906_202945.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210906_203235.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 236641,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210906_203235.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_190710.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 192351,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210907_190710.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_190715.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 194923,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210907_190715.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193334.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 200357,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210907_193334.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193513.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 189445,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210907_193513.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210907_193956.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 207255,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210907_193956.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/alignment/20210908_090937.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 190809,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/alignment/20210908_090937.jpg",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/spectra/FF01-554_23_Spectrum.txt": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 72859,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/spectra/FF01-554_23_Spectrum.txt",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/spectra/FF01-590_36_Spectrum.txt": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 78202,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/spectra/FF01-590_36_Spectrum.txt",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/spectra/NL-2p1_filters-dichroics_spectra.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 150198,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/spectra/NL-2p1_filters-dichroics_spectra.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/tmp/red_fluorophores_filters_sources2b.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 217025,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/tmp/red_fluorophores_filters_sources2b.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 308767,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel_optics.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 279492,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_green-channel_optics.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 217290,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system_hightlighted optics.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 298586,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_PMT detection system_hightlighted optics.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 407997,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels_optics.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 56601,
+      "exportedPath": "Functional Subsystems/PMT detection system/rss/NL-2p1_red-channels_optics.png",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/maintenance alignment.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1081,
+      "exportedPath": "Functional Subsystems/PMT detection system/maintenance alignment.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/PMT detection system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1239,
+      "exportedPath": "Functional Subsystems/PMT detection system/PMT detection system.html",
+      "dependencies": []
+    },
+    "Functional Subsystems/PMT detection system/PMT detection system spectra.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 759,
+      "exportedPath": "Functional Subsystems/PMT detection system/PMT detection system spectra.html",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/electronics/electronics.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 251,
+      "exportedPath": "Modules/LaserPowerController/electronics/electronics.html",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/hardware/NL2p1 hardware.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5347,
+      "exportedPath": "Modules/LaserPowerController/hardware/NL2p1 hardware.html",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/paper/~$ser power controller.docx": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 162,
+      "exportedPath": "Modules/LaserPowerController/paper/~$ser power controller.docx",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/paper/laser power controller.docx": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2979620,
+      "exportedPath": "Modules/LaserPowerController/paper/laser power controller.docx",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/Agilis-P_with_Camera_no_wires_400w.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 19879,
+      "exportedPath": "Modules/LaserPowerController/rss/Agilis-P_with_Camera_no_wires_400w.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/DIY_glan-prism-attenuator.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 355361,
+      "exportedPath": "Modules/LaserPowerController/rss/DIY_glan-prism-attenuator.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/Electronics and firmware.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 28295,
+      "exportedPath": "Modules/LaserPowerController/rss/Electronics and firmware.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/laser-shutter_40mm cage system_with-beam-block.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 260017,
+      "exportedPath": "Modules/LaserPowerController/rss/laser-shutter_40mm cage system_with-beam-block.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/laser-shutter_60mm cage system_with-beam-block.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 188793,
+      "exportedPath": "Modules/LaserPowerController/rss/laser-shutter_60mm cage system_with-beam-block.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/NL2p1_60mm-rig-shutter.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 177146,
+      "exportedPath": "Modules/LaserPowerController/rss/NL2p1_60mm-rig-shutter.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/NL2p1_glan-prism-power-attenuator.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1530687,
+      "exportedPath": "Modules/LaserPowerController/rss/NL2p1_glan-prism-power-attenuator.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/NL2p1_PCB-board.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 234823,
+      "exportedPath": "Modules/LaserPowerController/rss/NL2p1_PCB-board.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/NL2p1_standalone-shutter.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 175621,
+      "exportedPath": "Modules/LaserPowerController/rss/NL2p1_standalone-shutter.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/optical path schematics.pptx": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 38773,
+      "exportedPath": "Modules/LaserPowerController/rss/optical path schematics.pptx",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/optical path_screensaver.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 28925,
+      "exportedPath": "Modules/LaserPowerController/rss/optical path_screensaver.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/phase-modulators.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 33831,
+      "exportedPath": "Modules/LaserPowerController/rss/phase-modulators.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/power meter with lightning_Gemini_Generated.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 518930,
+      "exportedPath": "Modules/LaserPowerController/rss/power meter with lightning_Gemini_Generated.jpg",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/powerControllerPCB_v0.1.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 88595,
+      "exportedPath": "Modules/LaserPowerController/rss/powerControllerPCB_v0.1.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/screenhunter 07.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 230446,
+      "exportedPath": "Modules/LaserPowerController/rss/screenhunter 07.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/screenhunter 08.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 376179,
+      "exportedPath": "Modules/LaserPowerController/rss/screenhunter 08.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/screenhunter 15.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 392118,
+      "exportedPath": "Modules/LaserPowerController/rss/screenhunter 15.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/screenhunter 16.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 60238,
+      "exportedPath": "Modules/LaserPowerController/rss/screenhunter 16.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/rss/uniblitz-shutter.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 745008,
+      "exportedPath": "Modules/LaserPowerController/rss/uniblitz-shutter.png",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/software/software.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Modules/LaserPowerController/software/software.html",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/firmware.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1017,
+      "exportedPath": "Modules/LaserPowerController/firmware.html",
+      "dependencies": []
+    },
+    "Modules/LaserPowerController/Laser Power Controller.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1936,
+      "exportedPath": "Modules/LaserPowerController/Laser Power Controller.html",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1100685,
+      "exportedPath": "Modules/NI-DAQ-modules/downloaded documentation/NI 62xx_63xx Pinout Labels for the SCB-68A Note to Users_371805b.pdf",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 410560,
+      "exportedPath": "Modules/NI-DAQ-modules/downloaded documentation/NI_BNC-2110_connectorBlock_installationGuide.pdf",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 421121,
+      "exportedPath": "Modules/NI-DAQ-modules/downloaded documentation/NI_PCIe-6374_specs_377388c.pdf",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/downloaded documentation/scb-68a-user-manual.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4479352,
+      "exportedPath": "Modules/NI-DAQ-modules/downloaded documentation/scb-68a-user-manual.pdf",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 35088,
+      "exportedPath": "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/pics/NI-DAQ-digital-output.png",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/NI-DAQ-digital-output.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3155,
+      "exportedPath": "Modules/NI-DAQ-modules/software/NI-DAQ-digital-output/NI-DAQ-digital-output.html",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/NI DAQ card architecture.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5313,
+      "exportedPath": "Modules/NI-DAQ-modules/NI DAQ card architecture.html",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/NI SCB-68A connections example.jpg": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 286087,
+      "exportedPath": "Modules/NI-DAQ-modules/NI SCB-68A connections example.jpg",
+      "dependencies": []
+    },
+    "Modules/NI-DAQ-modules/NI-DAQ-Modules.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 165,
+      "exportedPath": "Modules/NI-DAQ-modules/NI-DAQ-Modules.html",
+      "dependencies": []
+    },
+    "Modules/photostim/photostim.drawio": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 15251,
+      "exportedPath": "Modules/photostim/photostim.drawio",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 125048,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module.png",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module_partial-integrated-window.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 17780,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/MC-module/rss/nPoint_C400_MC-module_partial-integrated-window.png",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-Module.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3268,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-Module.html",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-module-MC-commands.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 993,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/MC-module/nPoint-LC400_MC-module-MC-commands.html",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/C400 USB Labview2011.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1603181,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/C400 USB Labview2011.pdf",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/CD-LC-400-1-3-0.zip": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 16425584,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/CD-LC-400-1-3-0.zip",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/FTDI.zip": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 8323069,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/FTDI.zip",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400 Series Controller Manual V1.19.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4258117,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400 Series Controller Manual V1.19.pdf",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400-API-Developers-Manual.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1147008,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC.400-API-Developers-Manual.pdf",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC400_1-axis_controller.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 135020,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/nPoint_LC400_1-axis_controller.png",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_nPFocus400_INSTALLATION-DRAWING-3715475-3715485-nPFocus400.PDF": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 235847,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/nPoint_nPFocus400_INSTALLATION-DRAWING-3715475-3715485-nPFocus400.pdf",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/nPoint_NZ400_and_30mm-cage-cube-adapter.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 82659,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/nPoint_NZ400_and_30mm-cage-cube-adapter.png",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/rss/piezo-stage_30-mm-cage_adapter.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 116590,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/rss/piezo-stage_30-mm-cage_adapter.png",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/nPoint nPFocus400 piezo stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1788,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/nPoint nPFocus400 piezo stage.html",
+      "dependencies": []
+    },
+    "Modules/piezo_nPoint-nPFocus400/nPoint-C400_C4W-adapter.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 563,
+      "exportedPath": "Modules/piezo_nPoint-nPFocus400/nPoint-C400_C4W-adapter.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/galvos/camridge_tech_contacts.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 351,
+      "exportedPath": "Modules/point-scanner/galvos/camridge_tech_contacts.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/galvos/camtech_on_choosing.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1838,
+      "exportedPath": "Modules/point-scanner/galvos/camtech_on_choosing.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/software/rss/point-scanner_bare-interface.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 86822,
+      "exportedPath": "Modules/point-scanner/software/rss/point-scanner_bare-interface.png",
+      "dependencies": []
+    },
+    "Modules/point-scanner/software/rss/point-scanner_flow-diagram.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 130186,
+      "exportedPath": "Modules/point-scanner/software/rss/point-scanner_flow-diagram.png",
+      "dependencies": []
+    },
+    "Modules/point-scanner/software/rss/screenshot_137.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 398330,
+      "exportedPath": "Modules/point-scanner/software/rss/screenshot_137.png",
+      "dependencies": []
+    },
+    "Modules/point-scanner/software/point-scanner AO-DO.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 62,
+      "exportedPath": "Modules/point-scanner/software/point-scanner AO-DO.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/software/point-scanner software.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 202,
+      "exportedPath": "Modules/point-scanner/software/point-scanner software.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/galvos.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4140,
+      "exportedPath": "Modules/point-scanner/galvos.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/Negrean_Mansvelder_14.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 787,
+      "exportedPath": "Modules/point-scanner/Negrean_Mansvelder_14.html",
+      "dependencies": []
+    },
+    "Modules/point-scanner/point-scanner module.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 130,
+      "exportedPath": "Modules/point-scanner/point-scanner module.html",
+      "dependencies": []
+    },
+    "Modules/Spectra-Physics_Insight-X3/Spectra-Physics Insight-X3.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Modules/Spectra-Physics_Insight-X3/Spectra-Physics Insight-X3.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 85434,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper driver interface.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 167,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper driver interface.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 235171,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control1.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 141539,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control1.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control2.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 70129,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control2.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control3.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 125421,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper_PIT-control3.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 110724,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 22237,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/pasted_image.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5720522,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy/pasted_image.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/code.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1733,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/code.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2391,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage/diy.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage/stepper-stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 266,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage/stepper-stage.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/old/stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3279,
+      "exportedPath": "Modules/Stepper motors and Stages/old/stage.html",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/rss/NL-2p1_z-stage actuator.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 581350,
+      "exportedPath": "Modules/Stepper motors and Stages/rss/NL-2p1_z-stage actuator.png",
+      "dependencies": []
+    },
+    "Modules/Stepper motors and Stages/3D stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 438,
+      "exportedPath": "Modules/Stepper motors and Stages/3D stage.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/files/stepper-driver_general-interface.h.bak",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 85434,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stage-stepper_change-of-target-during-movement_2019-10-07.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper driver interface.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 167,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper driver interface.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 235171,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_acceleration-deceleration_2019-05-01.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control1.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 141539,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control1.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control2.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 70129,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control2.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control3.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 125421,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper_PIT-control3.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 110724,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code/stepper-stage-classes_fiinote_2019-07-01.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 22237,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/diy/DRV8825-Stepper-Motor-Driver-Pinout.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/diy/pasted_image.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 5720522,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/diy/pasted_image.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/code.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1733,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/code.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage/diy.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2391,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage/diy.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage/stepper-stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 266,
+      "exportedPath": "Modules/stepper-stage/old/stage/stepper-stage.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/old/stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3279,
+      "exportedPath": "Modules/stepper-stage/old/stage.html",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/rss/NL-2p1_z-stage actuator.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 581350,
+      "exportedPath": "Modules/stepper-stage/rss/NL-2p1_z-stage actuator.png",
+      "dependencies": []
+    },
+    "Modules/stepper-stage/3D stage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 438,
+      "exportedPath": "Modules/stepper-stage/3D stage.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/31clxlr9.bmp": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 360054,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/31clxlr9.bmp",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/ax40f9yq.bmp": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 360054,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/ax40f9yq.bmp",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/example_module_parser.py": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 4157,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/example_module_parser.py",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/h6zdcn23.bmp": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 360054,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/h6zdcn23.bmp",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/PM100D-Manual.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1822855,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/PM100D-Manual.pdf",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/PM101-Manual_English.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2733300,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/PM101-Manual_English.pdf",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/ro6njuwd.bmp": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 360054,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/ro6njuwd.bmp",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/S130C-SpecSheet.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 981863,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/S130C-SpecSheet.pdf",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/S405C-SpecSheet.pdf": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1233817,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/S405C-SpecSheet.pdf",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/rss/screenshot_135.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 74367,
+      "exportedPath": "Modules/Thorlabs_power-meter/rss/screenshot_135.png",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/software/software.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1360,
+      "exportedPath": "Modules/Thorlabs_power-meter/software/software.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/software/Thorlabs power meter MC module.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 3445,
+      "exportedPath": "Modules/Thorlabs_power-meter/software/Thorlabs power meter MC module.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/software/Thorlabs_power-meter_MC module MC commands.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1394,
+      "exportedPath": "Modules/Thorlabs_power-meter/software/Thorlabs_power-meter_MC module MC commands.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/PM100D interface.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 829,
+      "exportedPath": "Modules/Thorlabs_power-meter/PM100D interface.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/PM101 interface.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 154,
+      "exportedPath": "Modules/Thorlabs_power-meter/PM101 interface.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/README.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 984,
+      "exportedPath": "Modules/Thorlabs_power-meter/README.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/S130C power sensor.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 410,
+      "exportedPath": "Modules/Thorlabs_power-meter/S130C power sensor.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/S405C power sensor.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 149,
+      "exportedPath": "Modules/Thorlabs_power-meter/S405C power sensor.html",
+      "dependencies": []
+    },
+    "Modules/Thorlabs_power-meter/troubleshooting.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 962,
+      "exportedPath": "Modules/Thorlabs_power-meter/troubleshooting.html",
+      "dependencies": []
+    },
+    "Modules/Spectra-Physics Insight-X3.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Modules/Spectra-Physics Insight-X3.html",
+      "dependencies": []
+    },
+    "parts and purchasing system/Purchasing system.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 455,
+      "exportedPath": "parts and purchasing system/Purchasing system.html",
+      "dependencies": []
+    },
+    "rss/2p-scanning.xlsx": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 225258,
+      "exportedPath": "rss/2p-scanning.xlsx",
+      "dependencies": []
+    },
+    "rss/3D Model.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 767,
+      "exportedPath": "rss/3D Model.html",
+      "dependencies": []
+    },
+    "rss/NL-2p1_3D-model.png": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 875145,
+      "exportedPath": "rss/NL-2p1_3D-model.png",
+      "dependencies": []
+    },
+    "rss/NL-2p1_asmbly.xlsx.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 148,
+      "exportedPath": "rss/NL-2p1_asmbly.xlsx.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/point scanner software/MC integration.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2475,
+      "exportedPath": "Software assemblies and usage/point scanner software/MC integration.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/point scanner software/point scanner.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 94,
+      "exportedPath": "Software assemblies and usage/point scanner software/point scanner.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/point scanner software/point scanner code notes.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Software assemblies and usage/point scanner software/point scanner code notes.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/modules.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 354,
+      "exportedPath": "Software assemblies and usage/modules.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/Software.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 849,
+      "exportedPath": "Software assemblies and usage/Software.html",
+      "dependencies": []
+    },
+    "Software assemblies and usage/Software assemblies and usage.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Software assemblies and usage/Software assemblies and usage.html",
+      "dependencies": []
+    },
+    "Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 0,
+      "exportedPath": "Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.html",
+      "dependencies": []
+    },
+    "NL_2p1 content.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 2758,
+      "exportedPath": "NL_2p1 content.html",
+      "dependencies": []
+    },
+    "NL_2p1 overview.md": {
+      "modifiedTime": 1740757264633,
+      "sourceSize": 1018,
+      "exportedPath": "NL_2p1 overview.html",
+      "dependencies": []
+    }
+  }
+}
